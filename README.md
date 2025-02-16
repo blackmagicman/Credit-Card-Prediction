@@ -11,7 +11,7 @@ The goal of this project is to build a predictive model that can accurately clas
 - Data Preprocessing: Handling missing values, encoding categorical variables, and feature scaling.
 - Exploratory Data Analysis (EDA): Visualizing and understanding the data distribution and relationships.
 - Model Building: Training and evaluating various machine learning models.
-- Model Evaluation: Assessing the performance of the models using metrics such as accuracy, precision, recall, and F1-score.   
+- Model Evaluation: Assessing the performance of the models using metrics such as accuracy, precision, recall, and F1-score.       
 
 ## Installation
 
